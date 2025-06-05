@@ -32,7 +32,7 @@ def run():
 Thread(target=run).start()
 
 
-TOKEN = '8053271515:AAGUFOJgQm7oosdX2tyRuomsAAGYm_Lk99U'
+TOKEN = '8053271515:AAHzaEY6pRwTD7uXFbbFB_QYdqMKTpUKXgo'
 ADMIN_ID = 1235501707         # замени на свой Telegram ID
 CHANNEL_ID = -1002298038944  # ID 
 
